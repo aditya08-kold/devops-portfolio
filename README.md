@@ -10,6 +10,9 @@ AWS • Linux • EC2 • S3 • IAM • Security Groups • VPC • Apache • 
 ### 1. AWS EC2 LAMP Deployment
 Configured Ubuntu EC2 instance with Apache, MySQL, and PHP.
 Deployed static website and configured security groups.
+### AWS EC2 LAMP Static Website
+Live Demo:
+https://aditya08-kold.github.io/aws-ec2-lamp-static-website/
 
 ### 2. AWS S3–EC2 Integration
 Configured IAM role to allow EC2 instance access to S3.
